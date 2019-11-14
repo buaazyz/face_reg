@@ -24,4 +24,4 @@ https://github.com/TreB1eN/InsightFace_Pytorch
 
 训练结果部分如下所示
 
-![1573701611066](result\1573701611066.png)
+![1573701611066](result/1573701611066.png)
